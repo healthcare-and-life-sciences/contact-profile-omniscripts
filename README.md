@@ -81,22 +81,22 @@ Flexcards (1)
     1. Obtain a Google Maps API Key at the following URL: 
         1. https://developers.google.com/maps/documentation/javascript/get-api-key
         2. Create a Remote Site Settings record:
-        3. [Image: image.png]
+        3. ![](/images/firstimage.png)
 2. De-activate and re-activate the omniscripts:
-3. [Image: image.png]
-4. [Image: image.png]
+3. ![](/images/secondimage.png)
+4. ![](/images/thirdimage.png)
 
 
 Preview each Omniscript to verify functionality:
 
 1. Retrieve the Id of a Person Account
 2. Preview the Omniscript and enter the Person Account Id in the Context Id field:
-3. [Image: image.png]
+3. ![](/images/fourthimage.png)
 4. After previewing the OS, verify outcome:
     1. For the CreateCase Omniscript, navigate to Cases and verify the Case was created:
-    2. [Image: image.png]
+    2. ![](/images/fifthimage.png)
 5. Preview the MemberChangeAddress Omniscript, enter the Person Account Id in the Context Id field:
-    1. [Image: image.png]
+    1. ![](/images/sixthimage.png)
     2. Verify Current Address fields retrieve the appropriate data
     3. Enter a new address (verify Type-Ahead works) and verify the new address is shown in the Google Map
 
